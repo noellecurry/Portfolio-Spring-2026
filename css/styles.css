@@ -1,31 +1,35 @@
 body {
+  
   font-family: 'Poppins', sans-serif;
-  background-color: #f1f0d1;
+  background-color: #ffffff;
+
+
 }
 
 nav a {
-  margin: 0 10px;
   text-decoration: none;
-  color: #f1f0d1;
+  color: #ffffff;
+
 }
 
 nav{
   text-align: center;
   background-color: #3d0326;
-
 }
+
+
 
 h1{
-  text-align: right;
-
+  text-align: center;
 }
+
 
 p{
   text-align: left;
-
+ 
 }
 
 footer{
-  text-align: right;
+  text-align: left;
 
 }
