@@ -42,6 +42,10 @@ nav{
   width: 400px;
 }
 
+.center-gif {
+  display: block;
+  margin: 0 auto;
+}
 
 h1{
   text-align: center;
