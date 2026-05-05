@@ -72,3 +72,9 @@ footer a {
 footer{
   text-align: left;
 }
+
+@media screen and (max-width: 800px) {
+  html {
+    font-size: 80%
+  }
+}
