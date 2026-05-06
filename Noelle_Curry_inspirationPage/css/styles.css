@@ -2,7 +2,7 @@
 body {
   
   font-family: 'Poppins', sans-serif;
-background-color: #3d0326
+  background-color: #3d0326
 
 
 }
@@ -53,10 +53,14 @@ h2{
 h3{
     color: #ffffff;
     text-decoration: none;
+    text-align: left;       /* ragged right edge, flush left */
+    max-width: 45ch;        /* keeps paragraphs narrow and readable */
+    margin-bottom: 1.5rem;
 }
 
 h4{
     color: #ffffff;
+
 }
 
 
