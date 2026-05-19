@@ -89,6 +89,7 @@ img {
   height: auto;
   display: block;
   flex-shrink: 0;
+  animation: fadeIn 1s ease-in;
 }
  
 
@@ -100,4 +101,9 @@ footer {
 footer a {
   text-decoration: none;
   color: #ffffff;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
 }
